@@ -8,7 +8,7 @@ user_course = input('Введите место работы: ')
 
 print(user_name, user_age, user_gender, user_place_work, user_place_study, user_course, sep='\n')
 ''' 
-q
+qa
 """
 country = input('Text your country: ')
 prise = input('Text how many money do you want: ')
